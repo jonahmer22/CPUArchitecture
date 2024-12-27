@@ -17,7 +17,7 @@ This repository is a collection of various CPU designs and implementations, each
 ## Designs
 
 ### Overture Architectures
-This section contains implementations of Reduced Instruction Set Computing (RISC) architectures, focusing on simplicity and efficiency.
+This section contains implementations of Overture architectures, focusing on simplicity and clear operations.
 
 - **Example 1:** A simple 8-bit Overture processor with basic ALU operations.
 
